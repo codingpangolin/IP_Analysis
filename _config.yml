@@ -1,1 +1,3 @@
 theme: jekyll-theme-tactile
+titles_from_headings:
+  enabled:     false
