@@ -1,3 +1,6 @@
-# Scraping Data From The EUIPO's Trademark Register with Python
+# Geographical distribution of United Kingdom trademark applications
 
-The European Union Intellectual Property Office is responsible for registering Trademarks (TMs) in the EU. Its website provides a featured called eSearch Plus, enabling users to locate data about TMs on the EUIPO’s database. A series of techniques are provided in this guide, illustrating how data can be scraped automatically from pages on the EUIPO’s site.
+The data visualisations presented here were created from a set of data scraped from the UK’s trademark register. The dataset records the basic details of every application for a trademark made in the UK from the start of January 2018 to the end of June that same year.  One of the main details the register shows is the address of the applicant attempting to register the trademark; this analysis examines this datum in order to show how the locations of applicants for UK trademarks are distributed. 
+
+Mapping the country given in the applicant’s address on the trademark register on to a choropleth map shows that a large number of countries from around the world have made at least one trademark application in the UK in the first six months of 2018.  Only two countries however, China and the USA, have made more than 250, while the largest number of applications were made by addresses within the UK itself.
+![useful image]({{ site.url }}/assets/world_choro.png)
