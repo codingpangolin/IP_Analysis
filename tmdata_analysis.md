@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geographical distribution of United Kingdom trademark applications
+title: "Geographical distribution of United Kingdom trademark applications"
 ---
 Geographical distribution of United Kingdom trademark applications
 
