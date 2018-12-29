@@ -1,4 +1,8 @@
-# Geographical distribution of United Kingdom trademark applications
+---
+layout: post
+title: Geographical distribution of United Kingdom trademark applications
+---
+Geographical distribution of United Kingdom trademark applications
 
 The data visualisations presented here were created from a [set of data scraped](https://raw.githubusercontent.com/codingpangolin/IP_Analysis/master/tmscrape_jan_june2018.csv) from the [UK’s trademark register](https://www.gov.uk/search-for-trademark). The dataset records the basic details of every application for a trademark made in the UK from the start of January 2018 to the end of June that same year.  One of the main details the register shows is the address of the applicant attempting to register the trademark; this analysis examines this datum in order to show how the locations of applicants for UK trademarks are distributed. 
 
